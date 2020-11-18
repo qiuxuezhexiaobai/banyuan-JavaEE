@@ -29,10 +29,18 @@ public class Demo1 {
     Arrays.sort(arr);
     System.out.println(Arrays.toString(arr));
 
+    int a = 0;
+    for (int i = 0; i < 30; i++) {
+      if(i%10!=9){
+        a=++a;
+        if(a%5==0){
+          System.out.println(i+"\n");
+        }
+      }
+    }
 
-
-
-
+    int x=12,y=13;
+    System.out.println( x++ + y+ ++y + ++x -y +(x+y)/2.0);
   }
 
   //数组求和

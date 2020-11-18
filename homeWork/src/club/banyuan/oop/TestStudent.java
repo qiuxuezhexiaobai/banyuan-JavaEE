@@ -1,4 +1,7 @@
 package club.banyuan.oop;
+
+import java.util.Arrays;
+
 public class TestStudent {
     public static void main(String[] args) {
         Student[] students = new Student[6];
@@ -23,5 +26,6 @@ public class TestStudent {
                 break;
             }
         }
+        System.out.println(Arrays.toString(students));
     }
 }
