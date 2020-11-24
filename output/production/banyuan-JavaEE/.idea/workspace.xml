@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dd4091b-e634-4b3e-8e24-4c9f2572a466" name="Default Changelist" comment="2020年11月16日">
+      <change afterPath="$PROJECT_DIR$/.idea/banyuan-JavaEE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/banyuan-JavaEE/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/banyuan-JavaEE/.idea/banyuan-JavaEE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/banyuan-JavaEE/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/banyuan-JavaEE/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/banyuan-JavaEE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/banyuan-JavaEE/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/banyuan-JavaEE/JavaBasic/src/club/banyuan/basic/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/banyuan-JavaEE/META-INF/banyuan-JavaEE.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/banyuan-JavaEE/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasic/src/club/banyuan/basic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasic/src/club/banyuan/basic/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k2s4OkQZtjG8QCPB4TYFoZAJAi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homeWork/src/club/banyuan/phoy" />
+      <recent name="$PROJECT_DIR$/homeWork/src/club/banyuan" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homeWork/src/club/banyuan/cake" />
+      <recent name="$PROJECT_DIR$/homeWork/src/club/banyuan/phoy" />
+      <recent name="$PROJECT_DIR$/homeWork/src/club/banyuan/packages" />
+      <recent name="$PROJECT_DIR$/homeWork/src/club/banyuan" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestGane">
+    <configuration name="Derived" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.demo.Derived" />
+      <module name="banyuan-JavaEE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.banyuan.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.demo.Main" />
+      <module name="banyuan-JavaEE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.banyuan.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.demo.Test" />
+      <module name="banyuan-JavaEE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.banyuan.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.cake.TestCake" />
+      <module name="banyuan-JavaEE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.banyuan.cake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.banyuan.phoy.game.TestGane" />
+      <module name="banyuan-JavaEE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.banyuan.phoy.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestGane" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestCake" />
+        <item itemvalue="Application.Derived" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dd4091b-e634-4b3e-8e24-4c9f2572a466" name="Default Changelist" comment="" />
+      <created>1604909828345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604909828345</updated>
+      <workItem from="1604909830077" duration="1381000" />
+      <workItem from="1604920077342" duration="2011000" />
+      <workItem from="1604971872186" duration="15748000" />
+      <workItem from="1604998205592" duration="12387000" />
+      <workItem from="1605063989559" duration="33033000" />
+      <workItem from="1605140684818" duration="26906000" />
+      <workItem from="1605232596904" duration="523000" />
+      <workItem from="1605235544054" duration="4493000" />
+      <workItem from="1605251076683" duration="932000" />
+      <workItem from="1605262590532" duration="7112000" />
+      <workItem from="1605317443057" duration="21000" />
+      <workItem from="1605322517001" duration="846000" />
+      <workItem from="1605333702817" duration="49000" />
+      <workItem from="1605524018189" duration="1551000" />
+      <workItem from="1605528331137" duration="1310000" />
+      <workItem from="1605573375082" duration="259000" />
+      <workItem from="1605573923281" duration="30010000" />
+      <workItem from="1605659684528" duration="498000" />
+      <workItem from="1605661487761" duration="17687000" />
+      <workItem from="1605697511549" duration="1509000" />
+      <workItem from="1605700400178" duration="16000" />
+      <workItem from="1605704346460" duration="144000" />
+      <workItem from="1605747823705" duration="9140000" />
+      <workItem from="1605785567600" duration="5724000" />
+      <workItem from="1605834194266" duration="16290000" />
+      <workItem from="1606109733924" duration="498000" />
+      <workItem from="1606114069335" duration="92000" />
+      <workItem from="1606115275991" duration="622000" />
+      <workItem from="1606119568565" duration="1060000" />
+      <workItem from="1606120638094" duration="85000" />
+      <workItem from="1606120751965" duration="211000" />
+      <workItem from="1606120982593" duration="2101000" />
+      <workItem from="1606127229146" duration="5795000" />
+      <workItem from="1606133109096" duration="1697000" />
+      <workItem from="1606135038942" duration="744000" />
+      <workItem from="1606182317757" duration="573000" />
+    </task>
+    <task id="LOCAL-00001" summary="2020年11月16日">
+      <created>1605574078750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605574078750</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2020年11月17日">
+      <created>1605659728164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605659728164</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020年11月16日" />
+    <MESSAGE value="2020年11月17日" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年11月17日" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="115" key="#TestGane" timestamp="1606121264959">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="404" y="100" key="#TestGane/0.0.1440.900@0.0.1440.900" timestamp="1606120711389" />
+    <state x="404" y="115" key="#TestGane/0.23.1440.828@0.23.1440.828" timestamp="1606121264959" />
+    <state x="208" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606121284921">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="208" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1606121284921" />
+    <state x="933" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1606131156568">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="933" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1606131156568" />
+    <state x="933" y="145" key="#com.intellij.ide.util.MemberChooser/0.23.1440.828@0.23.1440.828" timestamp="1606130161041" />
+    <state x="457" y="245" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606120950998">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1606120709921" />
+    <state x="457" y="245" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.828@0.23.1440.828" timestamp="1606120950998" />
+    <state x="147" y="369" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1605608789111">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="147" y="369" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.828@0.23.1440.828" timestamp="1605608789111" />
+    <state x="225" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605686890410">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="225" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.828@0.23.1440.828" timestamp="1605686890410" />
+    <state x="434" y="197" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1605089838089">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="434" y="197" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1440.828@0.23.1440.828" timestamp="1605089838089" />
+    <state x="324" y="38" key="CommitChangelistDialog2" timestamp="1605659727635">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="324" y="38" key="CommitChangelistDialog2/0.23.1440.828@0.23.1440.828" timestamp="1605659727635" />
+    <state x="200" y="123" width="1240" height="628" key="DiffContextDialog" timestamp="1605854976798">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="200" y="123" width="1240" height="628" key="DiffContextDialog/0.23.1440.828@0.23.1440.828" timestamp="1605854976798" />
+    <state width="1398" height="222" key="GridCell.Tab.0.bottom" timestamp="1606135824641">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="222" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606135800551" />
+    <state width="1398" height="222" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1606135824641" />
+    <state width="1398" height="222" key="GridCell.Tab.0.center" timestamp="1606135824640">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="222" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606135800549" />
+    <state width="1398" height="222" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1606135824640" />
+    <state width="1398" height="222" key="GridCell.Tab.0.left" timestamp="1606135824640">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="222" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606135800548" />
+    <state width="1398" height="222" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1606135824640" />
+    <state width="1398" height="222" key="GridCell.Tab.0.right" timestamp="1606135824641">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="222" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606135800550" />
+    <state width="1398" height="222" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1606135824641" />
+    <state width="1398" height="300" key="GridCell.Tab.1.bottom" timestamp="1606135824630">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606135509174" />
+    <state width="1398" height="300" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1606135824630" />
+    <state width="1398" height="300" key="GridCell.Tab.1.center" timestamp="1606135824630">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1606135509172" />
+    <state width="1398" height="300" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1606135824630" />
+    <state width="1398" height="300" key="GridCell.Tab.1.left" timestamp="1606135824629">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1606135509171" />
+    <state width="1398" height="300" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1606135824629" />
+    <state width="1398" height="300" key="GridCell.Tab.1.right" timestamp="1606135824630">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1606135509173" />
+    <state width="1398" height="300" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1606135824630" />
+    <state width="1398" height="300" key="GridCell.Tab.2.bottom" timestamp="1606135824632">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606135509180" />
+    <state width="1398" height="300" key="GridCell.Tab.2.bottom/0.23.1440.828@0.23.1440.828" timestamp="1606135824632" />
+    <state width="1398" height="300" key="GridCell.Tab.2.center" timestamp="1606135824631">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1606135509178" />
+    <state width="1398" height="300" key="GridCell.Tab.2.center/0.23.1440.828@0.23.1440.828" timestamp="1606135824631" />
+    <state width="1398" height="300" key="GridCell.Tab.2.left" timestamp="1606135824631">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1606135509176" />
+    <state width="1398" height="300" key="GridCell.Tab.2.left/0.23.1440.828@0.23.1440.828" timestamp="1606135824631" />
+    <state width="1398" height="300" key="GridCell.Tab.2.right" timestamp="1606135824631">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="300" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1606135509179" />
+    <state width="1398" height="300" key="GridCell.Tab.2.right/0.23.1440.828@0.23.1440.828" timestamp="1606135824631" />
+    <state width="1398" height="355" key="GridCell.Tab.3.bottom" timestamp="1605064084660">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="355" key="GridCell.Tab.3.bottom/0.23.1440.828@0.23.1440.828" timestamp="1605064084660" />
+    <state width="1398" height="355" key="GridCell.Tab.3.center" timestamp="1605064084658">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="355" key="GridCell.Tab.3.center/0.23.1440.828@0.23.1440.828" timestamp="1605064084658" />
+    <state width="1398" height="355" key="GridCell.Tab.3.left" timestamp="1605064084658">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="355" key="GridCell.Tab.3.left/0.23.1440.828@0.23.1440.828" timestamp="1605064084658" />
+    <state width="1398" height="355" key="GridCell.Tab.3.right" timestamp="1605064084659">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="355" key="GridCell.Tab.3.right/0.23.1440.828@0.23.1440.828" timestamp="1605064084659" />
+    <state x="232" y="23" width="1024" height="828" key="SettingsEditor" timestamp="1606121132937">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="232" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606120770713" />
+    <state x="232" y="23" width="1024" height="828" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1606121132937" />
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1605659735557">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1605659735557" />
+    <state x="423" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1606182318168">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="423" y="267" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1606135040798" />
+    <state x="423" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1606182318168" />
+    <state x="458" y="207" key="extract.method.dialog" timestamp="1605103136122">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="458" y="207" key="extract.method.dialog/0.23.1440.828@0.23.1440.828" timestamp="1605103136122" />
+    <state x="423" y="194" width="667" height="486" key="find.popup" timestamp="1604976822626">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="423" y="194" width="667" height="486" key="find.popup/0.23.1440.828@0.23.1440.828" timestamp="1604976822626" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1605863635144">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.828@0.23.1440.828" timestamp="1605863635144" />
+    <state x="178" y="59" key="new project wizard" timestamp="1605166820881">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="178" y="59" key="new project wizard/0.23.1440.828@0.23.1440.828" timestamp="1605166820881" />
+    <state x="427" y="60" key="refactoring.ChangeSignatureDialog" timestamp="1605787377275">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="427" y="60" key="refactoring.ChangeSignatureDialog/0.23.1440.828@0.23.1440.828" timestamp="1605787377275" />
+    <state x="340" y="198" key="run.anything.popup" timestamp="1605172215671">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="340" y="198" key="run.anything.popup/0.23.1440.828@0.23.1440.828" timestamp="1605172215671" />
+    <state x="546" y="175" width="670" height="676" key="search.everywhere.popup" timestamp="1605682844342">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="546" y="175" width="670" height="676" key="search.everywhere.popup/0.23.1440.828@0.23.1440.828" timestamp="1605682844342" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaBasic/src/club/banyuan/homework/Homework2.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaBasic/src/club/banyuan/homework/HomeWork3.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaBasic/src/club/banyuan/homework/HomeWork3.java</url>
+          <line>167</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaBasic/src/club/banyuan/homework/HomeWork1.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaBasic/src/club/banyuan/homework/Homework.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaBasic/src/club/banyuan/homework/Homework.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaBasic/src/club/banyuan/homework/Homework.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaBasic/src/club/banyuan/homework/Homework.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaBasic/src/club/banyuan/homework/Homework.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaBasic/src/club/banyuan/homework/Homework.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaBasic/src/club/banyuan/homework/Test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/details/Demo2.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/details/Demo3.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/details/Demo3.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/details/Demo3.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/details/Demo4.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/details/Demo4.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/details/Demo4.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/oop/TestStudent.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/details/Demo5.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/details/Demo5.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/sale/Compony.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/sale/Compony.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/userDemo/Main.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/video/VideoStore.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/video/VideoStoreLauncher.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/video/VideoStoreLauncher.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/video/VideoStore.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/phoy/game/TestGane.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/phoy/game/TestGane.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/homeWork/src/club/banyuan/phoy/game/TestGane.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="videos[videos.length - 1]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
